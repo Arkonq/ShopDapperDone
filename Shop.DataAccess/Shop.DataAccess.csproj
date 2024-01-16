@@ -13,7 +13,7 @@
     <PackageReference Include="Qiwi" Version="1.0.12" />
     <PackageReference Include="Qiwi.BillPayments.Json.Newtonsoft" Version="0.1.5" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.6.0" />
-    <PackageReference Include="System.Data.SqlClient" Version="4.7.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
   </ItemGroup>
 
   <ItemGroup>
